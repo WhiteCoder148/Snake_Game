@@ -1,3 +1,3 @@
 # Snake_Game
 
-# Just the snake game on C++
+# Just the snake game in C++
